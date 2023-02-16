@@ -4,6 +4,10 @@ public class Main {
             //FOR INUTIL
             System.out.println(i);
         }
+<<<<<<< HEAD
         System.out.println("Hello world!");
+=======
+        System.out.println(cars);
+>>>>>>> e92731b (add cars toString and print)
     }
 }
