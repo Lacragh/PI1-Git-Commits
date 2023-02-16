@@ -5,7 +5,11 @@ public class Main {
             System.out.println(i);
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
         System.out.println("Hello world!");
+=======
+        System.out.println(cars);
+>>>>>>> e92731b (add cars toString and print)
 =======
         System.out.println(cars);
 >>>>>>> e92731b (add cars toString and print)
